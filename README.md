@@ -29,7 +29,7 @@ A visual representation of a fictional planetary system consisting in a star, 5 
 ## RESULT
 ![view](https://user-images.githubusercontent.com/72495040/156935105-79bfb635-037f-4672-8e26-f8cc8d4dbc78.gif)
 
-##LIMITATIONS
+## LIMITATIONS
 The movement was implemented using the camera() function, this make the work easier but it doesn't feel like you are actually moving, instead it feels like you are moving the world around you.
 ## REFERENCES
 https://github.com/otsedom/otsedom.github.io/blob/main/CIU/P4/README.md
